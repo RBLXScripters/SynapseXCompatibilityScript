@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://api.irisapp.ca/Scripts/IrisBetterCompat.lua"))() -- Put this loadstring above any Synapse X only script / on Line 1.
